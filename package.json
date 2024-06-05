@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#fix-buttons-list",
+    "wwebjs-mongo": "^1.1.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  }
+}
